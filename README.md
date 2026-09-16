@@ -1,2 +1,2 @@
 # CyberSecurity_Course
-Exercises of Course Coursera
+Exercises of Post Graduate in Cybersecurity at PUC-PR
